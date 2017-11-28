@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-Templates", "1-Templates\1-Templates.vcxproj", "{84CA8A92-4010-4D35-BC15-1AAD24BD00E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-Containers", "2-Containers\2-Containers.vcxproj", "{A208F68C-AFF8-4871-A68F-437E8E574D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{84CA8A92-4010-4D35-BC15-1AAD24BD00E2}.Release|x64.Build.0 = Release|x64
 		{84CA8A92-4010-4D35-BC15-1AAD24BD00E2}.Release|x86.ActiveCfg = Release|Win32
 		{84CA8A92-4010-4D35-BC15-1AAD24BD00E2}.Release|x86.Build.0 = Release|Win32
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Debug|x64.ActiveCfg = Debug|x64
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Debug|x64.Build.0 = Debug|x64
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Debug|x86.ActiveCfg = Debug|Win32
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Debug|x86.Build.0 = Debug|Win32
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Release|x64.ActiveCfg = Release|x64
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Release|x64.Build.0 = Release|x64
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Release|x86.ActiveCfg = Release|Win32
+		{A208F68C-AFF8-4871-A68F-437E8E574D26}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
