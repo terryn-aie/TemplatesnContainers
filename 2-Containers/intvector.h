@@ -40,31 +40,3 @@ public:
 private:
 	bool grow(size_t minSize);
 };
-
-//template<typename T>
-//class tVector
-//{
-//	T * data;			// ptr to your dynamically allocated array
-//	size_t capacity;	// total capacity
-//	size_t size;		// total number of elements stored
-//
-//public:
-//	tVector();
-//	~tVector();
-//
-//	T& at(size_t idx);
-//
-//	T& append(int val);
-//};
-//
-//template<typename T>
-//class thing
-//{
-//	T div(T a);
-//};
-//
-//template<typename T>
-//T thing::div(T a)
-//{
-//
-//}

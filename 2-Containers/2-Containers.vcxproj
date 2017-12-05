@@ -110,12 +110,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="intLinkedListNode.cpp" />
     <ClCompile Include="intvector.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="algorithms.h" />
+    <ClInclude Include="benchpress.hpp" />
+    <ClInclude Include="cxxopts.hpp" />
+    <ClInclude Include="intlinkedlist.h" />
     <ClInclude Include="intvector.h" />
+    <ClInclude Include="iterator.h" />
+    <ClInclude Include="Stack.h" />
     <ClInclude Include="test.h" />
+    <ClInclude Include="tvector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
